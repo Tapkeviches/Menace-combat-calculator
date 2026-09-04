@@ -1,6 +1,6 @@
 This is a tool i made in python to research and deconstruct combat balance in game Menace. It simulates weapons, enemies and then do thousand of shots following ingame rules and formulas. 
 
-To comfortable use it you need to make a copy of this [google sheet file](https://docs.google.com/spreadsheets/d/1fyP3SBn8bYCf5fCMowssKIniw3MKLj7Fy-w3AKteH_A/edit?gid=599662166#gid=599662166). 
+To comfortable use it you need to make a copy of this [google sheet file](https://docs.google.com/spreadsheets/d/1fyP3SBn8bYCf5fCMowssKIniw3MKLj7Fy-w3AKteH_A/copy). 
 Then install [gspread module](https://docs.gspread.org/en/latest/), and setup it with [google cloud authentification](https://docs.gspread.org/en/latest/oauth2.html) of your choosing. Gspread documentation
 has and extensive guide on how to do it. Add your copy of google sheet to server_creds file in the root folder. Script launches from ExperimentDataProcessor file. 
 

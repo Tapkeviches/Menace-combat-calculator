@@ -1,0 +1,14 @@
+ExperimentId,WeaponKey,EnemySquadKey,PlayerSquadSize,SquadLeaderAcc,TargetCover,Iterations
+crowbar_conscripts,"BR3A3 Kr-BaR ""Crowbar",Conscripts,6,80,None,10000
+hammer_conscripts,BR6A1 HaMER,Conscripts,6,80,None,10000
+SOCC_conscripts,"R14A2 ARC ""SOCC""",Conscripts,6,80,None,10000
+hammer_heavy_infantry,BR6A1 HaMER,Heavy Infantry,6,80,None,10000
+hammer_heavy_infantry_2,BR6A1 HaMER,Heavy Infantry,12,75,None,10000
+hammer_heavy_infantry_3,"R10A6 ""SOF"" K-PAC",Heavy Infantry,18,75,None,0
+hammer_heavy_infantry_4,"R10A6 ""SOF"" K-PAC",Heavy Infantry,24,75,None,0
+pirate_pp_conscripts,Pirate looted PDW,Conscripts,6,80,None,0
+pirate_pp_infantry,Pirate looted PDW,Infantry,6,75,None,0
+pirate_pp_heavy_infantry,Pirate looted PDW,Heavy Infantry,6,75,None,0
+r41a_conscripts,R14A2 ARC,Conscripts,6,75,None,0
+r41a_infantry,R14A2 ARC,Infantry,6,75,None,0
+r41a_heavy_infantry,R14A2 ARC,Heavy Infantry,6,75,None,0

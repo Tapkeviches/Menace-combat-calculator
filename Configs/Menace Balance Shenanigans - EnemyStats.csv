@@ -1,0 +1,27 @@
+Name,Squad Size,HP per soldier,Armor,Armor Durability,Discipline
+Conscripts,8,10,10,25,65
+Infantry,6,10,40,40,70
+Heavy Infantry,6,10,75,60,75
+Officer,3,10,40,40,80
+Jaegar Team,2,10,15,30,70
+Storm Troopers,5,10,55,45,85
+MG Team,3,10,40,40,70
+Autocannon Team,3,10,40,40,70
+Mortar Team,3,10,40,40,70
+ATGM Team,3,10,40,40,70
+Alien Spiderling,7,13,20,25,70
+Alien Stinger,5,13,20,25,70
+Alien Dragonfly,3,20,15,20,70
+Alien Harpy,3,20,15,20,70
+Young Alien Warrior,3,70,30,40,70
+Alien Warrior,3,40,90,140,70
+Alien Bombardier,1,100,40,60,65
+Blaster Bug,1,200,55,100,70
+Alien Queen,1,250,100,250,70
+Construct Drone,8,25,15,20,70
+Construct Soldier,3,120,45,60,70
+Construct Floater,1,30,60,100,70
+Construct Shambler,3,60,35,50,70
+Construct Skirmisher,3,100,35,50,70
+Gun Crawler,1,300,130,400,70
+Construct Carrier,1,480,60,250,70
